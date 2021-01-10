@@ -1,8 +1,10 @@
 <h1>Hello 👋 i'm Dhruvam Zaveri</h1>
 
-🔭 I’m currently working on/with Python<br>
+🔭 I’m currently working on/with Python3<br>
 🌱 I’m currently learning Full Stack, ML & DL
 <br>🤔 I’m looking for help with ML & AI
 <br>💬 Ask me about Digital Image Processing
 <br>📫 How to reach me: 
-  Email: <a href="dhruvamzaveri14@gmail.com">dhruvamzaveri14@gmail.com</a>
+  <br>Email: <a href="dhruvamzaveri14@gmail.com">dhruvamzaveri14@gmail.com</a>
+  <br>Twitter: <a href="https://twitter.com/DhruvamZaveri">@DhruvamZaveri</a>
+  <br>LinkedIn: <a href="https://www.linkedin.com/in/dhruvam-zaveri/">DhruvamZaveri</a>
