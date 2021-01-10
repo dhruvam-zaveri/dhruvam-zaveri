@@ -1,4 +1,4 @@
-<h1>Hello 👋 i'm Dhruvam Zaveri</h1>
+<h1>Hello 👋 I'm Dhruvam Zaveri</h1>
 
 🔭 I’m currently working on/with Python3<br>
 🌱 I’m currently learning Full Stack, ML & DL
