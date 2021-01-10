@@ -6,5 +6,4 @@
 <br>💬 Ask me about Digital Image Processing
 <br>📫 How to reach me: 
   <br>Email: <a href="dhruvamzaveri14@gmail.com">dhruvamzaveri14@gmail.com</a>
-  <br>Twitter: <a href="https://twitter.com/DhruvamZaveri">@DhruvamZaveri</a>
   <br>LinkedIn: <a href="https://www.linkedin.com/in/dhruvam-zaveri/">DhruvamZaveri</a>
