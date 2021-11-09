@@ -1,9 +1,19 @@
 ## Hello World :wave:
 
-<img align="right" height="50%" width="50%" src="GitHub%20cover%20photo.png"/>
+<img align="right" height="70%" width="70%" src="GitHub%20cover%20photo.png"/>
 
-🔭 I’m currently working on Full Stack Web Developement<br>
-🌱 I’m currently learning Full Stack web development, Data science & Project management.
+🔭 I’m currently working on
+<ul>
+  <li>Full Stack Web Developement</li>
+</ul><br>
+
+🌱 I’m currently learning 
+<ul>
+  <li>Full Stack web development</li>
+  <li>Data science</li>
+  <li>Project management</li>
+</ul>
+
 <br>🤔 I’m looking for help with Project Management and Data science.
 <br>💬 Ask me about what I am currently learning.
 <br>📃 Checkout my <a href="https://drive.google.com/file/d/1Sca-OnHplRkxcjsDT8JVXEf8Bfw8XHcz/view?usp=sharing">resume</a>
