@@ -1,4 +1,5 @@
-<img src="GitHub%20cover%20photo.png"/>
+## Hello World :wave:
+<img align="right" src="GitHub%20cover%20photo.png"/>
 🔭 I’m currently working on Full Stack Web Developement<br>
 🌱 I’m currently learning Full Stack web development, Data science & Project management.
 <br>🤔 I’m looking for help with Project Management and Data science.
