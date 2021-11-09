@@ -9,3 +9,6 @@
   <br>LinkedIn: <a href="https://www.linkedin.com/in/dhruvam-zaveri/">DhruvamZaveri</a>
   
 [![Dhruvam's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvam-zaveri&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[user_name])](https://github.com/anuraghazra/github-readme-stats)
+
+[user_name] = dhruvam-zaveri
