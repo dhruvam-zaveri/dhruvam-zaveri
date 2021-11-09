@@ -11,7 +11,7 @@
   <br>Email: <a href="dhruvamzaveri14@gmail.com">dhruvamzaveri14@gmail.com</a>
   <br>LinkedIn: <a href="https://www.linkedin.com/in/dhruvam-zaveri/">DhruvamZaveri</a>
   
-<p> <img src="https://komarev.com/ghpvc/?username=dhruvam-zaveri&label=Profile%20views&color=white&style=flat" alt="dhruvam-zaveri" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=dhruvam-zaveri&label=Profile%20views&color=fff&style=flat" alt="dhruvam-zaveri" /> </p>
 <p> <img src="https://badges.pufler.dev/repos/dhruvam-zaveri/?color=white"> </p>
 
 <h3 align="left">Languages and Tools:</h3>
