@@ -1,7 +1,7 @@
 <h1>Hello 👋 I'm Dhruvam Zaveri</h1>
 
 🔭 I’m currently working on Full Stack Web Developement<br>
-🌱 I’m currently learning Full Stack web development, Data science & Project management.
+🌱 I’m currently learning Full Stack web development, Data science & Project management.<br>
 📃 Checkout my <a href="https://drive.google.com/file/d/1Sca-OnHplRkxcjsDT8JVXEf8Bfw8XHcz/view?usp=sharing">resume</a>
 <br>🤔 I’m looking for help with Project Management and Data science.
 <br>💬 Ask me about what I am currently learning.
