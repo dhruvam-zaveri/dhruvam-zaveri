@@ -1,6 +1,6 @@
 ## Hello World :wave:
 
-<img src="GitHub%20cover%20photo.png"/>
+<img align="right" height="50%" width="50%" src="GitHub%20cover%20photo.png"/>
 
 🔭 I’m currently working on Full Stack Web Developement<br>
 🌱 I’m currently learning Full Stack web development, Data science & Project management.
