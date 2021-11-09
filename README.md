@@ -8,4 +8,4 @@
   <br>Email: <a href="dhruvamzaveri14@gmail.com">dhruvamzaveri14@gmail.com</a>
   <br>LinkedIn: <a href="https://www.linkedin.com/in/dhruvam-zaveri/">DhruvamZaveri</a>
   
-![](https://komarev.com/ghpvc/?username=your-github-username)
+[![Dhruvam's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvam-zaveri)](https://github.com/anuraghazra/github-readme-stats)
