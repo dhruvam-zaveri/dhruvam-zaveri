@@ -1,5 +1,5 @@
 <h1>Hello 👋 I'm Dhruvam Zaveri</h1>
-
+<img src="https://drive.google.com/file/d/1aVHeC27AlWpcOjBhQYYanyE5j4hOV2F4/view?usp=sharing"/>
 🔭 I’m currently working on Full Stack Web Developement<br>
 🌱 I’m currently learning Full Stack web development, Data science & Project management.
 <br>🤔 I’m looking for help with Project Management and Data science.
