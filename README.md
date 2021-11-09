@@ -18,9 +18,8 @@
 <br>💬 Ask me about what I am currently learning.
 <br>📃 Checkout my <a href="https://drive.google.com/file/d/1Sca-OnHplRkxcjsDT8JVXEf8Bfw8XHcz/view?usp=sharing">resume</a>
 <br>📫 How to reach me:
-<br>**dhruvamzaveri14@gmail.com**
-  <br>Email: <a href="dhruvamzaveri14@gmail.com">dhruvamzaveri14@gmail.com</a>
-  <br>LinkedIn: <a href="https://www.linkedin.com/in/dhruvam-zaveri/">DhruvamZaveri</a>
+  <br>*Email: **dhruvamzaveri14@gmail.com**
+  <br>*LinkedIn: <a href="https://www.linkedin.com/in/dhruvam-zaveri/">DhruvamZaveri</a>
   
 <p> <img src="https://komarev.com/ghpvc/?username=dhruvam-zaveri&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvam-zaveri" /> </p>
 <p> <img src="https://badges.pufler.dev/repos/dhruvam-zaveri/?color=0e75b6"> </p>
