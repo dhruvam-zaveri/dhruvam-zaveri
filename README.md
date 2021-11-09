@@ -1,4 +1,3 @@
-<h1>Hello 👋 I'm Dhruvam Zaveri</h1>
 <img src="GitHub%20cover%20photo.png"/>
 🔭 I’m currently working on Full Stack Web Developement<br>
 🌱 I’m currently learning Full Stack web development, Data science & Project management.
