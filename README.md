@@ -8,6 +8,7 @@
   <br>Email: <a href="dhruvamzaveri14@gmail.com">dhruvamzaveri14@gmail.com</a>
   <br>LinkedIn: <a href="https://www.linkedin.com/in/dhruvam-zaveri/">DhruvamZaveri</a>
   
-[![Dhruvam's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvam-zaveri&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Dhruvam's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvam-zaveri&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvam-zaveri&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<br><br>
+[![Dhruvam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhruvam-zaveri&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
