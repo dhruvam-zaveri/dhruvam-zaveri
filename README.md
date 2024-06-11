@@ -14,7 +14,7 @@
 
 <br>🤔 I’m looking for help with Project Management and Data science.
 <br>💬 Ask me about Python, AWS and Cloud Developement.
-<br>📃 Checkout my <a href="https://docs.google.com/document/d/13dl2f4-MYNHZNGrwpiUKRHGvaUKNPqIA/edit?usp=sharing&ouid=112500307579055644225&rtpof=true&sd=true">Resume</a> and <a href="https://dhruvam-zaveri.vercel.app/">Personal Website</a>
+<br>📃 Checkout my <a href="https://drive.google.com/file/d/14ZKiDEfGz6bxf4mPnZQyESlVXooB5nZ7/view?usp=sharing">Resume</a> and <a href="https://dhruvam-zaveri.vercel.app/">Personal Website</a>
 <br>📫 How to reach me:
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: <a href="dhruvamzaveri14@gmail.com">dhruvamzaveri14@gmail.com</a>
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn: <a href="https://www.linkedin.com/in/dhruvam-zaveri/">DhruvamZaveri</a>
